@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dallas USA</title>
+    <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/</link>
+    <description>Recent content in Projects on Dallas USA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://keerthistarranger.github.io/Keerthi_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1 : Evaluating Countries performance based on UNICEF data</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-1/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-1/</guid>
+      <description>We have analyzed various indicators from UNICEF data. This data was used to find the top 5 indicators which affect the well being of children. What makes our analysis unique: We have created a custom index called “Five Factor Child Development Index(FFCDI)” which gives an index to each country in the range of 0 to 1 based on the top 5 factors. We also developed an interactive map which will show the rank of each country.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Predictive Data Modelling of Peanut Butter Brands</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-3/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-3/</guid>
+      <description>The data contained details of the different varieties of peanut butter for various brands. We analysed the brand JIF to find out the best group of customers using RFM Clustering method. We found the attributes that affect the brand of choice of the household panelists using Logistic Regression. We found the most effective method of Marketing Communication from Types of Features and Display and Price Reduction using Panel Regression.    This project&amp;rsquo;s Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3 : Creating Optimised Portfolio of Stocks.</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-4/</guid>
+      <description>We constructed a big data alpha model for three stocks IBM, iROBOT and NETFLIX. For each stock we retrieved technical indicators and fundamental indicators from 2016-01-01 to 2019-09-01. After careful analysis of the indicators we created a factor model using all the indicators. The results of the panel regression indicate that the coefficient of RSI14 is the only significant indicators for the stocks. For Portfolio analysis using R we created an optimum portfolio and to test the results we back test the returns based on the weights from the optimized portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Project 4 : Do more guns reduce  crime?</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-5/</guid>
+      <description>We analysed historical data on crime in the US to answer the following questions:  “Do shall-issues law reduce crime-or not?” “Does incarceration policy reduce crime-or not?”   We ran Pooled OLS model, Entity- Fixed Effect model, Time-Effect-FE model for 3 dependent variables: Violence, Murder, Robbery Crime We found that both shall-issues and incarceration policy can reduce violent crime rates, but very minimally. We found that neither the implementation of shall-issue laws nor enforcing increased incarceration seemed to have any effect on robbery rates.</description>
+    </item>
+    
+    <item>
+      <title>Project 5 : Analysis and Forecast of Global Terrorism Incidents</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-6/</guid>
+      <description>This project aims at using the open-source Global Terrorism Data(GTD). It contains information about 170,000 terrorist attacks which occurred between 1970 and 2016. This information is joined World Development Index (WDI) data which is present as a R library called WDI. To examine whether or not chosen groups have a common link with the number of fatalities, we perform statistical hypothesis test with ANOVA and PostHoc test. We then use various time series algorithms like Auto ARIMA,neural net,TBATS and ETS to perform time series analysis as well as fore cast the number of terrorist attacks for Afghanistan,Iraq and SAHEL region.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Movie Revenue Predictor using IMDB data</title>
+      <link>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthistarranger.github.io/Keerthi_Portfolio/post/chapter-2/</guid>
+      <description>We have used the variables from “IMDB 5000 movies dataset” to analyze how important they can be to predict the movie’s IMDb rating. This prediction will help production houses and filmmakers to see what the recipe is for getting higher ratings. This will also help them understand where they should invest for these higher ratings to be successful at the box office and to build a brand for their respective production houses.</description>
+    </item>
+    
+  </channel>
+</rss>
